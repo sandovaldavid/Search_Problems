@@ -4,5 +4,5 @@
 
 ## 🌐 Lenguage
 
-- [Spanish](./README_es.md)
-- [English](./README_en.md)
+- [Spanish](./wiki/README_es.md)
+- [English](./wiki/README_en.md)
